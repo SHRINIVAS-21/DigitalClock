@@ -1,2 +1,2 @@
 # DigitalClock
-this is digital clock
+this is digital clock using python libery (tkinter)
